@@ -1,1 +1,1 @@
-This algorithm uses Simpson's 1/3 Rule to estimate the value of an intergral of a functon. 
+This algorithm uses Simpson's 1/3 Rule to estimate the value of an intergral of a functon. Simpson's is exact for estimation of cubic functions. It uses three points and their function values, two are inputed and the third is their midpoint. 
