@@ -1,1 +1,3 @@
+# False Position
+## Description 
 False position is a bracketing root finding method. This method uses two function values and creates a straight line between them, the point where this line intersects the x axis is the new estimated root. 
